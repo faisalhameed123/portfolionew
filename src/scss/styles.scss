@@ -1,0 +1,16 @@
+@import './partials/_navigation.scss';
+@import './partials/_about.scss';
+@import './partials/_developer.scss';
+@import './partials/_projects.scss';
+@import './partials/_skill.scss';
+@import './partials/_footer.scss';
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background: url('../images/backport.jpg')no-repeat;
+    background-size: cover ;
+    background-attachment: fixed;
+}
