@@ -46,7 +46,7 @@ const FooterComponent = (props) => {
         </div> 
       </div>
       <div className="[ footCont__CopyRight row col-md-12 ]">
-          <h6>©2021.CopyRights@faisalportfolio.netlify</h6>
+          <h6>©2021.CopyRights@faisalhportfolio.netlify</h6>
       </div>
     </div>
   );

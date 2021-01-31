@@ -113,7 +113,7 @@ var i6 = 0;
       var width = 10;
       var id = setInterval(frame, 10);
       function frame() {
-        if (width >= 75) {
+        if (width >= 70) {
           clearInterval(id);
           i6 = 0;
         } else {
